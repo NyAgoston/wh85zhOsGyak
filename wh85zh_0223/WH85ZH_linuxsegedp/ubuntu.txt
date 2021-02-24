@@ -1,0 +1,5 @@
+1:CPU tulajdonságai.
+2:A gyorsítótárak szintjei.
+3:Alaplap tulajdonságai.
+4:A CPU terheltsége.
+5:RAM használat.
